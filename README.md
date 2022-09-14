@@ -1,5 +1,5 @@
 <p align='center'>
-    <a href="live:seal12040315">
+    <a href="https://web.skype.com?id=live:seal12040315">
       <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="mailto:goldenpig951204@gmail.com">
