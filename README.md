@@ -53,7 +53,6 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 </details>
-
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=goldenpig951204&column=7&theme=onedark"/>
+<a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=goldenpig951204&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
 </p>
